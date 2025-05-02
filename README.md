@@ -1,4 +1,5 @@
 # Игра Shooter
+![Shooter](https://raw.githubusercontent.com/Parucnik/shoot/refs/heads/main/icon.ico)
 ## Краткое описание
 Простая 2D-стрелялка на языке программирования **Python**.
 
